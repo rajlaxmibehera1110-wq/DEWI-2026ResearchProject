@@ -1,10 +1,10 @@
 # PROJECT FOUNDATION
 
-# DEVI – Domestic Violence and Crimes Against Women Analysis using Machine Learning & Deep Learning
+# DEWI: Data-Driven Evaluation of Crimes Against Women in India Using Machine Learning
 
 ## Project Overview
 
-DEVI is a data-driven machine learning and deep learning project developed to analyze historical crime records related to women in India. The project aims to study long-term crime patterns, identify significant trends, and build predictive models that can assist researchers, policymakers, and public safety organizations in understanding crimes against women through data analytics.
+DEWI is a data-driven machine learning and deep learning project developed to analyze historical crime records related to women in India. The project aims to study long-term crime patterns, identify significant trends, and build predictive models that can assist researchers, policymakers, and public safety organizations in understanding crimes against women through data analytics.
 
 The project combines data preprocessing, exploratory data analysis (EDA), machine learning, and deep learning techniques to extract meaningful insights from publicly available crime datasets.
 
@@ -42,7 +42,7 @@ The increasing availability of crime data presents an opportunity to use artific
 
 ## Scope of the Project
 
-The scope of DEVI includes:
+The scope of DEWI includes:
 
 - Historical crime data analysis
 - Data preprocessing and feature engineering
